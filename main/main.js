@@ -4,4 +4,4 @@ module.exports = function main(a,b) {
      return result;
   
 };
-ans = main(9,4);
+ans = main(9,3);
