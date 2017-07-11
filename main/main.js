@@ -3,5 +3,6 @@ module.exports = function main(a,b) {
  var result = a % b;
      return result;
   
-};
-ans = main(9,3);
+}
+var ans = main(9,3);
+console.log(ans);
