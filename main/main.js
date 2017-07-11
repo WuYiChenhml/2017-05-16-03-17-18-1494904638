@@ -1,9 +1,7 @@
 // Write your cade below:
-module.exports = function main() {
-  
-     var a = 9;
-     var b = 2;
+module.exports = function main(a,b) {
  var result = a % b;
      return result;
   
 };
+ans = main(9,4);
