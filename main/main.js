@@ -4,5 +4,3 @@ module.exports = function main(a,b) {
      return result;
   
 }
-var ans = main(9,3);
-console.log(ans);
